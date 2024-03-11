@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ## Badges & charts widgets
 
-![npm-install-time](https://coveritup.app/badge?org=kevincobain2000&repo=action-coveritup&type=npm-install-time&branch=master)
-![npm-build-time](https://coveritup.app/badge?org=kevincobain2000&repo=action-coveritup&type=npm-build-time&branch=master)
+![npm-install-time](https://coveritup.app/badge?org=rakibul0310&repo=action-coveritup&type=npm-install-time&branch=master)
+![npm-build-time](https://coveritup.app/badge?org=rakibul0310&repo=action-coveritup&type=npm-build-time&branch=master)
 ![go-build-time](https://coveritup.app/badge?org=kevincobain2000&repo=action-coveritup&type=go-build-time&branch=master)
 ![go-test-run-time](https://coveritup.app/badge?org=kevincobain2000&repo=action-coveritup&type=go-test-run-time&branch=master)
 ![coverage](https://coveritup.app/badge?org=kevincobain2000&repo=action-coveritup&type=coverage&branch=master)
