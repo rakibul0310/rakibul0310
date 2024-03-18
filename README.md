@@ -4,7 +4,6 @@
 <h2 align="center">Hi 👋, I'm Rakibul Hasan</h1>
 <h3 align="center">I am Full-Stack Web Developer from
 <svg xmlns="http://www.w3.org/2000/svg" width="50.00" height="20.00" role="img" aria-label="made in BR">
-    <title>made in BD</title>
     <linearGradient id="s" x2="0" y2="100%">
         <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
         <stop offset="1" stop-opacity=".1" />
