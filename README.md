@@ -1,4 +1,4 @@
- ![Github Banner](assets/banner.jpg)
+ <!-- ![Github Banner](assets/banner.jpg) -->
  
  # 💫 About Me:
 <h2 align="center">Hi 👋, I'm Rakibul Hasan</h1>
